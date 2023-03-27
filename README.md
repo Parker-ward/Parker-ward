@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [allSpice](https://github.com/Parker-ward/allSpicy)
 
+<h3> I am new to software development but I am loving every minute of it. The struggles are worth it, being able to see the end application come out exactly the way I invisioned it! I can't wait to see where I am at in a year from now.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parker ward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parker ward" height="30" width="40" /></a>
